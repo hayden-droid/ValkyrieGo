@@ -11,7 +11,7 @@ require (
 	github.com/disintegration/imaging v1.6.2
 	github.com/gin-contrib/sessions v0.0.3
 	github.com/gin-gonic/contrib v0.0.0-20201101042839-6a891bf89f19
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-openapi/spec v0.20.3 // indirect
 	github.com/go-openapi/swag v0.19.15 // indirect
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
