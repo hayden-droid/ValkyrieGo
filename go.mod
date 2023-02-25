@@ -33,7 +33,7 @@ require (
 	github.com/ulule/limiter/v3 v3.8.0
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
 	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d // indirect
-	golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.1.2 // indirect
 	gorm.io/driver/postgres v1.1.1
 	gorm.io/gorm v1.21.15
